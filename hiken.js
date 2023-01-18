@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
     hh = h / 2,
     
     opts = {
-      strings: [ 'chúc mừng', 'sinh nhật', ' Nguyễn Trung Hiếu!','22/01/2003 - 22/01/2023' ],
+      strings: [ 'chúc mừng', 'sinh nhật', ' Nguyễn Trung Hiếu','22/01/2003 - 22/01/2023' ],
       charSize: 30,
       charSpacing: 35,
       lineHeight: 40,
